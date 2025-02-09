@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+WS_Lab.synctex.gz
+WS_Lab.log
+WS_Lab.aux
+WS_Lab.fls
+WS_Lab.fdb_latexmk
